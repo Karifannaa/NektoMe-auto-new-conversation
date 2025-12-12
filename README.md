@@ -51,6 +51,4 @@ NektoMe-auto-new-conversation/
 └── README.md        # Этот файл
 ```
 
-## 📝 Лицензия
-
-MIT License
+## тгк: https://t.me/Iwannabeachillguy
